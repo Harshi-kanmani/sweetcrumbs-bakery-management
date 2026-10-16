@@ -117,7 +117,7 @@ function productPhoto(p) {
             "https://images.unsplash.com/photo-1551024601-bec78aea704b?w=900&q=85",
 
         "Veg Puff":
-            "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=900&q=85",
+            "https://tse2.mm.bing.net/th/id/OIP.R1Yonl1euQiedfJT7qOYawHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
 
         "Fudge Brownie":
             "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=900&q=85",
